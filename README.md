@@ -1,3 +1,7 @@
-Voici mon readme
+Exercices JavaScript
+====================
 
-Introduction:
+Voici mes exercices:
+--------------------
+
+1. Première alert.
